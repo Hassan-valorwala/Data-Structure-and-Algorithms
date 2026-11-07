@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1492-the-kth-factor-of-n](https://github.com/Hassan-valorwala/Data-Structure-and-Algorithms/tree/master/1492-the-kth-factor-of-n) |
 | [1952-three-divisors](https://github.com/Hassan-valorwala/Data-Structure-and-Algorithms/tree/master/1952-three-divisors) |
 ## Enumeration
 |  |
@@ -12,10 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1492-the-kth-factor-of-n](https://github.com/Hassan-valorwala/Data-Structure-and-Algorithms/tree/master/1492-the-kth-factor-of-n) |
 | [1952-three-divisors](https://github.com/Hassan-valorwala/Data-Structure-and-Algorithms/tree/master/1952-three-divisors) |
 ## Prime Factorization
 |  |
 | ------- |
+| [1492-the-kth-factor-of-n](https://github.com/Hassan-valorwala/Data-Structure-and-Algorithms/tree/master/1492-the-kth-factor-of-n) |
 | [1952-three-divisors](https://github.com/Hassan-valorwala/Data-Structure-and-Algorithms/tree/master/1952-three-divisors) |
 ## Sieve Theory
 |  |
