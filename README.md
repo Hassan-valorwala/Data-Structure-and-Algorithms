@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0507-perfect-number](https://github.com/Hassan-valorwala/Data-Structure-and-Algorithms/tree/master/0507-perfect-number) |
 | [1492-the-kth-factor-of-n](https://github.com/Hassan-valorwala/Data-Structure-and-Algorithms/tree/master/1492-the-kth-factor-of-n) |
 | [1952-three-divisors](https://github.com/Hassan-valorwala/Data-Structure-and-Algorithms/tree/master/1952-three-divisors) |
 ## Enumeration
