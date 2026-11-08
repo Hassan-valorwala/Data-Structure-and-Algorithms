@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/Hassan-valorwala/Data-Structure-and-Algorithms/tree/master/0507-perfect-number) |
 | [1492-the-kth-factor-of-n](https://github.com/Hassan-valorwala/Data-Structure-and-Algorithms/tree/master/1492-the-kth-factor-of-n) |
 | [1952-three-divisors](https://github.com/Hassan-valorwala/Data-Structure-and-Algorithms/tree/master/1952-three-divisors) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Hassan-valorwala/Data-Structure-and-Algorithms/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Enumeration
 |  |
 | ------- |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/Hassan-valorwala/Data-Structure-and-Algorithms/tree/master/1492-the-kth-factor-of-n) |
 | [1952-three-divisors](https://github.com/Hassan-valorwala/Data-Structure-and-Algorithms/tree/master/1952-three-divisors) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Hassan-valorwala/Data-Structure-and-Algorithms/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Prime Factorization
 |  |
 | ------- |
@@ -26,4 +28,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/Hassan-valorwala/Data-Structure-and-Algorithms/tree/master/1952-three-divisors) |
+## Array
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Hassan-valorwala/Data-Structure-and-Algorithms/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Hassan-valorwala/Data-Structure-and-Algorithms/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Hassan-valorwala/Data-Structure-and-Algorithms/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
