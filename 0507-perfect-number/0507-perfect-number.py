@@ -4,7 +4,7 @@ class Solution:
             return False
         sum = 1
         i=2
-        while i*i < num:
+        while i*i <= num:
             if num%i==0:
                 sum += i
                 if num//i != i:
